@@ -1,0 +1,31 @@
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Elektronische Wandernadel.exe
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Elektronische Wandernadel.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Elektronische Wandernadel.deps.json
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Elektronische Wandernadel.runtimeconfig.json
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Elektronische Wandernadel.pdb
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\Microsoft.Data.Sqlite.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\SQLitePCLRaw.core.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Miriam.Willenberg\Documents\Elektronische Wandernadel\runtimes\win-x86\native\e_sqlite3.dll

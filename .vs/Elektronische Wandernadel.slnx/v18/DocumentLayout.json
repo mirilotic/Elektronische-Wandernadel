@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\elektronische wandernadel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\elektronische wandernadel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\ab 8.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\ab 8.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|c:\\users\\miriam.willenberg\\desktop\\projekte\\elektronische wandernadel\\elektronische wandernadel\\ab 0.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0EF140D4-3AC1-25C1-1983-114ADDCC5F50}|Elektronische Wandernadel\\Elektronische Wandernadel.csproj|solutionrelative:elektronische wandernadel\\ab 0.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:40:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window2.xaml.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\Window2.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwGwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:17:21.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window1.xaml.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\Window1.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:35:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window3.xaml.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\Window3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:59:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window2.xaml",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Window2.xaml",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window2.xaml",
+              "RelativeToolTip": "Elektronische Wandernadel\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-10T11:52:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Window4.xaml.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\Window4.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:56:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Database.cs",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Database.cs",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Database.cs",
+              "RelativeToolTip": "Elektronische Wandernadel\\Database.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:32:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elektronische Wandernadel.csproj",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Elektronische Wandernadel.csproj",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\Elektronische Wandernadel.csproj",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\Elektronische Wandernadel.csproj",
+              "RelativeToolTip": "Elektronische Wandernadel\\Elektronische Wandernadel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-22T09:29:41.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ab 8.png - PNG [960x540, 32-Bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\ab 8.png",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\ab 8.png",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\ab 8.png - PNG [960x540, 32-Bit, PNG]",
+              "RelativeToolTip": "Elektronische Wandernadel\\ab 8.png - PNG [960x540, 32-Bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-09-15T06:30:40.176Z",
+              "EditorCaption": " - PNG [960x540, 32-Bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ab 0.png - PNG [960x540, 32-Bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\ab 0.png",
+              "RelativeDocumentMoniker": "Elektronische Wandernadel\\ab 0.png",
+              "ToolTip": "C:\\Users\\Miriam.Willenberg\\Desktop\\Projekte\\Elektronische Wandernadel\\Elektronische Wandernadel\\ab 0.png - PNG [960x540, 32-Bit, PNG]",
+              "RelativeToolTip": "Elektronische Wandernadel\\ab 0.png - PNG [960x540, 32-Bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-09-15T06:30:47.972Z",
+              "EditorCaption": " - PNG [960x540, 32-Bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
