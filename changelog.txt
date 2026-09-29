@@ -1,0 +1,21 @@
+29.09.2026
+
+Allgemein
+
+- Es gibt jetzt einen Changelog!
+
+Projektmappen-Explorer
+
+- Fenster umbenannt - Window1 in EintragenWindow, Window2 in AnzeigenWindow, Window3 in ZimmerWindow, Window4 in StatistikWindow
+
+MainWindow
+
+- Margins am Button "Eintragen" geändert, um den gleichmäßigen Abstand zwischen den Buttons herzustellen.
+
+AnzeigenWindow
+
+- Neuen Button hinzugefügt "Zeile löschen"/zeileLöschenButton. Button "Löschen" in "Tabelle löschen"/tabelleLöschenButton umbenannt. Buttons etwas verschoben.
+- Methode löschenButton_Click im AnzeigenWindow umbenannt zu tabelleLöschenButton_Click
+- Methode tabelleLöschenButton_Click geändert: nach dem Löschen kehrt der User zurück zum MainWindow, wo direkt eine neue SQL-Tabelle erstellt wird. 
+- Methode ändernButton_Click geändert: if/when-Abfrage, ob es eine Tabelle gibt sowie Fehlermeldung falls nicht fällt weg, da nicht mehr benötigt.
+- Methode zeileLöschenButton_Click erstellt und mit zeileLöschenButton verbunden. Erzeugt eine Message Box "noch in Arbeit".

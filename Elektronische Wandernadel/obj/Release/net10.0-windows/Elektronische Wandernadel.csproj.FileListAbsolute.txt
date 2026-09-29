@@ -31,18 +31,10 @@ C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronis
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\bin\Release\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.csproj.AssemblyReference.cache
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\MainWindow.g.cs
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window1.g.cs
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window2.g.cs
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window3.g.cs
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window4.g.cs
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\App.g.cs
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel_MarkupCompile.cache
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel_MarkupCompile.lref
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\MainWindow.baml
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window1.baml
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window2.baml
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window3.baml
-C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Window4.baml
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.g.resources
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.AssemblyInfoInputs.cache
@@ -54,3 +46,12 @@ C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronis
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.pdb
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.genruntimeconfig.cache
 C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\ref\Elektronische Wandernadel.dll
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\AnzeigenWindow.g.cs
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\EintragenWindow.g.cs
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\AnzeigenWindow.baml
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\EintragenWindow.baml
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\Elektronische Wandernadel.sourcelink.json
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\StatistikWindow.g.cs
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\ZimmerWindow.g.cs
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\StatistikWindow.baml
+C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\obj\Release\net10.0-windows\ZimmerWindow.baml

@@ -4,16 +4,16 @@
     <_LastSelectedProfileId>C:\Users\Miriam.Willenberg\Desktop\Projekte\Elektronische Wandernadel\Elektronische Wandernadel\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="Window1.xaml.cs">
+    <Compile Update="EintragenWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Window2.xaml.cs">
+    <Compile Update="AnzeigenWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Window3.xaml.cs">
+    <Compile Update="ZimmerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Window4.xaml.cs">
+    <Compile Update="StatistikWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

@@ -28,7 +28,7 @@ namespace Elektronische_Wandernadel
             DatenAnzeigen();
         }
 
-        public void tabellezurückButton_Click(object sender, RoutedEventArgs e)
+        public void tabelleZurückButton_Click(object sender, RoutedEventArgs e)
         {
             MainWindow window = new MainWindow();
             window.Show();
@@ -56,7 +56,7 @@ namespace Elektronische_Wandernadel
 
         }
 
-        internal void löschenButton_Click( object sender, RoutedEventArgs e )
+        internal void tabelleLöschenButton_Click( object sender, RoutedEventArgs e )
         {
            MessageBoxResult result = MessageBox.Show("Möchtest du das wirklich machen? ALLE Daten werden unwiderruflich gelöscht!", "Warnung", MessageBoxButton.YesNo, MessageBoxImage.Warning);
 
@@ -65,6 +65,9 @@ namespace Elektronische_Wandernadel
                 Database database = new Database();
                 database.DeleteTabelle();
                 HWNDataGrid.ItemsSource = null;
+                MainWindow window = new MainWindow();
+                window.Show();
+                this.Close();
             }
 
             else
@@ -75,8 +78,6 @@ namespace Elektronische_Wandernadel
 
         internal void ändernButton_Click(Object sender, RoutedEventArgs e)
         {
-            if (HWNDataGrid.ItemsSource != null)
-            {
                 try
                 {
                     using SqliteConnection connection = database.DatenbankVerbinden();
@@ -113,14 +114,16 @@ namespace Elektronische_Wandernadel
                 {
                     MessageBox.Show("Die HWN- und Stempelnummern müssen weiterhin Nummern sein.", "Ungültige Eingabe");
                 }
-            }
+         }
 
-            else
-            {
-                MessageBox.Show("Du hast deine Tabelle gerade gelöscht. Bitte gehe zurück in den Startbildschirm, damit eine neue erstellt werden kann.","Fehler");
-            }
-
+        internal void zeileLöschenButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Noch in Arbeit");
         }
-        
+
+
+
     }
+        
 }
+
