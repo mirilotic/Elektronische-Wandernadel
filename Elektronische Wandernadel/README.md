@@ -28,8 +28,6 @@ Aktuell geplante Anpassungen / Neuerungen:
 
 
 
-* Änderung der Fensternamen in der Projektmappe in aussagekräftigere Namen
-* Möglichkeit, einzelne Zeilen in der Tabelle herauszulöschen
-* Funktionale Änderung beim Löschen der Tabelle
+* Anpassung der "alten" Fensternamen im Code auf die aktuellen (zB in Klassennamen oder Methoden Window2 in AnzeigenWindow ändern)
 * Verschönerung der Urkunde in den Zimmerbildern
 

@@ -93,7 +93,7 @@ namespace Elektronische_Wandernadel {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Elektronische Wandernadel;V1.0.0.0;component/statistikwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Elektronische Wandernadel;component/statistikwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\StatistikWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

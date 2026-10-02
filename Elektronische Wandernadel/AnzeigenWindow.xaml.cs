@@ -118,7 +118,28 @@ namespace Elektronische_Wandernadel
 
         internal void zeileLöschenButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Noch in Arbeit");
+            using SqliteConnection connection = database.DatenbankVerbinden();
+
+            
+            DataRowView row = HWNDataGrid.SelectedItem as DataRowView;
+
+            if (row == null)
+            {
+                return;
+            }
+
+            string sql = @"DELETE FROM Wandernadel WHERE Id = $id;";
+
+            using SqliteCommand command = new SqliteCommand(sql, connection);
+
+            command.Parameters.AddWithValue("$id", row["Id"]);
+
+            command.ExecuteNonQuery();
+
+            DatenAnzeigen();
+
+            MessageBox.Show("Die Zeile wurde gelöscht!", "Erfolg");
+
         }
 
 

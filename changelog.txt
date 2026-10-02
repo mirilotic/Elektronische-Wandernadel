@@ -19,3 +19,9 @@ AnzeigenWindow
 - Methode tabelleLöschenButton_Click geändert: nach dem Löschen kehrt der User zurück zum MainWindow, wo direkt eine neue SQL-Tabelle erstellt wird. 
 - Methode ändernButton_Click geändert: if/when-Abfrage, ob es eine Tabelle gibt sowie Fehlermeldung falls nicht fällt weg, da nicht mehr benötigt.
 - Methode zeileLöschenButton_Click erstellt und mit zeileLöschenButton verbunden. Erzeugt eine Message Box "noch in Arbeit".
+
+02.10.2026
+
+AnzeigenWindow
+
+- Methode zeileLöschenButton_Click wurde fertiggestellt und löscht jetzt markierte Zeilen in der Tabelle, refresht dann die Tabellenansicht.
